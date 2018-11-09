@@ -8,4 +8,4 @@ setup(name='Flask Test App',
       author='Vladimir Shmalko',
       author_email='vladimir.shmalko@gmail.com',
       package_dir={'app': 'src'}
-     )
+      )
