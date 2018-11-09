@@ -1,0 +1,8 @@
+pip install -r requirements.txt
+
+curl -X GET http://127.0.0.1:5000/
+curl -X GET -H "Accept: application/json" http://127.0.0.1:5000/
+
+pytest --disable-warnings
+
+
