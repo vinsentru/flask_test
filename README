@@ -1,15 +1,15 @@
-Clone the repository
+# Clone the repository
 Go to the cloned folder
 
-Install the requirements:
+# Install the requirements:
 
 pip install -r requirements.txt
 
-Run the application in the DEBUG mode:
+# Run the application in the DEBUG mode:
 
 python3 src/app.py
 
-Tests:
+# Tests:
 
 Open another terminal and run:
 
@@ -33,5 +33,5 @@ pytest --disable-warnings
 
 You should see that 2 tests are passed
 
-To install the application run:
+# To install the application run:
 python setup.py install
