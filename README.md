@@ -17,7 +17,7 @@ Standard request:
 
 curl -X GET http://127.0.0.1:5000/
 
-You should see '<p>Hello, World</p>' replay
+You should see `'<p>Hello, World</p>'` replay
 
 Request with 'Accept header'
 curl -X GET -H "Accept: application/json" http://127.0.0.1:5000/
